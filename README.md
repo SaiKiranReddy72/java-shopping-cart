@@ -31,7 +31,7 @@ Java, JSP, Servlets, JDBC, MySQL, and Apache Tomcat.
 2. Update DB credentials in `application.properties`
 3. Build project using Maven
 4. Deploy WAR on Tomcat
-5. Access at `http://localhost:8080/java-shopping-cart`
+5. Access at `http://localhost:8080/shopping-cart-0.0.1-SNAPSHOT/`
 
 ## Author
 Sai Kiran Reddy
