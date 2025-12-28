@@ -3,6 +3,11 @@
 A full-stack Java-based e-commerce web application built using
 Java, JSP, Servlets, JDBC, MySQL, and Apache Tomcat.
 
+![img alt](https://github.com/SaiKiranReddy72/java-shopping-cart/blob/2fd9d656ed075fd841fd83103778b430d57ce119/Sai-Kiran%20Electronics.jpeg)
+
+
+
+
 ## Features
 - User Registration & Login
 - Product Listing
